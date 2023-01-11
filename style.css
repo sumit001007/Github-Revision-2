@@ -26,3 +26,7 @@ th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+h2{
+  color: aquamarine;
+}
